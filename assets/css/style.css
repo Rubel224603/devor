@@ -1,0 +1,48 @@
+ul li a:hover{
+    background: #1891FF;
+}
+.p-10{
+    padding: 100px;
+}
+.pt-10{
+    padding-toP:100px;
+}
+.pl-10{
+    padding-left:100px;
+}
+.pr-10{
+    padding-right:100px;
+}
+.pb-10{
+    padding-bottom:100px;
+}
+.pb-8{
+    padding-bottom: 50px;
+}
+.banner .lastHeading{
+    
+} 
+.gapSection{
+    /* margin-left:10px; */
+    margin-right: 102px;
+}
+.project{
+    background:#F7F7F7;
+}
+.projectText{
+    padding:10px;
+}
+.m-10{
+    margin-right:300px;
+}
+
+.cotactUs{
+    background:blue;
+}
+footer{
+    background:#172DA0;
+}
+.inputSection{
+    display: flex;
+    justify-content: space-between;
+}
